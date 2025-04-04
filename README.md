@@ -1,10 +1,11 @@
+[油猴脚本链接](https://greasyfork.org/en/scripts/531799-%E5%B0%8F%E9%BB%91%E7%9B%92%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%8A%BD%E5%A5%96)
+
 最近发现在小黑盒 roll 游戏帖子中，大家还在用传统的随机数方式。我记得最开始的时候还有显示楼层的功能，后面不知道什么时候删除了，只能通过倒序或者顺序查看评论区回复；而且如果回复参与数量很多又或是开奖数量多的话，找对应的楼层比较麻烦。
 
 ![1](https://github.com/user-attachments/assets/35521ce3-57b9-4679-8916-e1de3a0bc8b5)
 正好上周我自己创建了一个关于“研究生复试送祝福”的 roll 贴，于是自己研究了一下，决定做一个小工具方便 roll 奖。黑盒帖子是有防爬取的设定，如果用抓包什么的一个是本身很麻烦，其次就是如果有人也想用学习成本很高，最后决定用网页版做一个油猴 js 脚本来实现，目前工具已经上传 greasyfork 供学习下载使用。浏览器油猴插件使用方法请自行搜索，黑盒有很多教程了。
 
 ![6](https://github.com/user-attachments/assets/39347fa3-127a-4654-9299-e111d6ffc4c5)
-[油猴脚本链接](https://greasyfork.org/en/scripts/531799-%E5%B0%8F%E9%BB%91%E7%9B%92%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%8A%BD%E5%A5%96)
 下面讲讲原理和使用方法：
 使用网页端小黑盒，在[小黑盒开放平台](https://open.xiaoheihe.cn/zh_cn/home)右边头像我的主页。找到自己发布的帖子。
 
